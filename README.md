@@ -5,10 +5,10 @@
 I am a student at the Faculty of Engineering, Alexandria University, specializing in the Computer and Communications Department. I am also interested in business management and entrepreneurship
 
 Skills: 
-*Python 
-*C 
-*Git 
-*VS code
+* Python 
+* C 
+* Git 
+* VS code
 
 - 🔭 I’m currently working on Build Tech Entrepreneur 
 
