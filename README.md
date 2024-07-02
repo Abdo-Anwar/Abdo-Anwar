@@ -1,16 +1,13 @@
-## Hi there 👋
+### Hi there 👋, I'm Abdelrhman Anwar
+#### Software Engineer
+![Software Engineer](https://media.licdn.com/dms/image/D4D03AQG4MjZqHSpZRw/profile-displayphoto-shrink_400_400/0/1707071816835?e=1725494400&v=beta&t=9f8HyFENaovZw9Y_c_UlpIn_GsrbmmN_5Mn-o9h84q4)
 
-<!--
-**Abdo-Anwar/Abdo-Anwar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I am a student at the Faculty of Engineering, Alexandria University, specializing in the Computer and Communications Department.
 
-Here are some ideas to get you started:
+Skills: Python / C / Git / VS code
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🔭 I’m currently working on Build Tech Entrepreneur 
+
+
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/Abdo-Anwar)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in//abdelrhman-anwar/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg' alt='facebook' height='40'>](https://www.facebook.com/no.bo.169)  
+
