@@ -2,7 +2,7 @@
 #### Software Engineer
 ![Software Engineer](https://media.licdn.com/dms/image/D4D03AQG4MjZqHSpZRw/profile-displayphoto-shrink_400_400/0/1707071816835?e=1725494400&v=beta&t=9f8HyFENaovZw9Y_c_UlpIn_GsrbmmN_5Mn-o9h84q4)
 
-I am a student at the Faculty of Engineering, Alexandria University, specializing in the Computer and Communications Department.
+I am a student at the Faculty of Engineering, Alexandria University, specializing in the Computer and Communications Department. I am also interested in business management and entrepreneurship
 
 Skills: Python / C / Git / VS code
 
