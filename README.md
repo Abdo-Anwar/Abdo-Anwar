@@ -4,6 +4,7 @@
 
 I am a student at the Faculty of Engineering, Alexandria University, specializing in the Computer and Communications Department. I am also interested in business management and entrepreneurship
 
+<img src="https://www.careerguide.com/career/wp-content/uploads/2021/09/booting-up-developer-economy-how-tech-startups-are-helping-coders-build-and-test-software-faster.gif" alt="gif"/>
 Skills: 
 * Python 
 * C 
