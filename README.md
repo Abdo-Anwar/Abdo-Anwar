@@ -7,7 +7,11 @@ I am a student at the Faculty of Engineering, Alexandria University, specializin
 
 Skills: 
 * Python 
-* C 
+* C
+* C++
+* GitHub
+* Codeblocks
+* Embedded software  
 * Git 
 * VS code
 <img src="https://www.careerguide.com/career/wp-content/uploads/2021/09/booting-up-developer-economy-how-tech-startups-are-helping-coders-build-and-test-software-faster.gif" alt="gif"/>
