@@ -7,7 +7,7 @@
     Passionate about building scalable <b>Data Pipelines</b>, <b>Distributed Systems</b>, and solving complex data problems.
   </p>
 
- <img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExZzcyMG11bDdzYWx3dWt1M2R0bm94cnU0andrbWRsOHI4bDF4ajBhbyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/xT9C25UNTwfZuk85WP/giphy.gif" alt="Data Engineering" width="600"/>
+ <img src="https://raw.githubusercontent.com/Abdo-Anwar/Abdo-Anwar/main/images/de.png" alt="Data Engineering Banner" width="600"/>
 </div>
 
 ---
