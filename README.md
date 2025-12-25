@@ -7,7 +7,7 @@
     Passionate about building scalable <b>Data Pipelines</b>, <b>Distributed Systems</b>, and solving complex data problems.
   </p>
 
-  <img src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExbm95bDNndHZ5Y2E5Y2E5Y2E5Y2E5Y2E5Y2E5/qgQUggAC3PzhwF4qW/giphy.gif" alt="Data Engineering GIF" width="600"/>
+  <img src="https://media1.tenor.com/m/WcPKGFex9W0AAAAd/we-are-receiving-more-broad-data-gregory-brown.gif" alt="Data Engineering GIF" width="600"/>
 
 </div>
 
