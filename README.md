@@ -47,12 +47,14 @@
 
 ---
 
-###  Featured Projects
+### Featured Projects
 
 | Project | Tech Stack | Description |
 | :--- | :--- | :--- |
-| **Flight Performance System** | Spark, Flink, Kafka, Snowflake | Dual-layer platform (Batch & Streaming) to detect flight anomalies instantly. |
-| **E-Commerce Pipeline** | Hadoop, Hive, Sqoop, Spark | End-to-End ELT architecture simulating migration from legacy systems to HDFS. |
+| **[Flight Performance System](https://github.com/Abdo-Anwar/flight-analytics-realtime-batch)** | Spark, Flink, Kafka, Snowflake | Real‑time & batch analytics platform for anomaly detection in flight operations. |
+| **[E‑Commerce Data Pipeline](https://github.com/Abdo-Anwar/ECom-DataOps-Pipeline)** | Hadoop, Hive, Sqoop, Spark | End‑to‑end ELT pipeline simulating legacy‑to‑HDFS migration. |
+| **[BookStore – Data‑Centric System](https://github.com/Abdo-Anwar/BookStore-RDBMS-Automation-System)** | SQL, ERD, Triggers | Active‑database driven e‑commerce system with automated workflows. |
+
 
 ---
 
@@ -75,25 +77,49 @@
 
 ### 🧩 Selected Side Projects
 
-While my primary focus is **Data Engineering**, I’ve also worked on a set of
-selected projects in **AI** and **Software Engineering** that reflect my
-algorithmic thinking and system‑level understanding.
+In addition to my core work in **Data Engineering**, the following repositories
+represent selected engineering efforts across **AI**, **Software Engineering**,
+and **Data‑Intensive Systems**—focusing on algorithms, system design, and
+hands‑on experimentation.
 
-#### 🤖 AI & Algorithms Projects
+### 📦 Data‑Intensive Systems Labs (Open‑Source Utilities)
+These repositories are lightweight setup and experimentation environments
+created to support hands‑on learning and community use in Data‑Intensive Systems.
+
+| Project | Purpose  | Used In |
+|--------|------------|--------------|
+| **[project 1](https://github.com/Abdo-Anwar/project-1)** | ...... | ..................... |
+| **[project 2](https://github.com/Abdo-Anwar/project-2)** | .............. | ..............|
+
+
+
+#### 🤖 AI & Algorithms Projects (Supporting Expertise)
 
 | Project | Focus Area | Key Concepts |
 |--------|------------|--------------|
-| **Sudoku CSP Solver** | Constraint Satisfaction | Backtracking, AC‑3, Search |
-| **Connect‑4 AI Agent** | Adversarial Search | Minimax, Alpha‑Beta, Expectimax |
-| **Gridworld RL Solver** | Reinforcement Learning | Value & Policy Iteration |
-| **OpenCV Shape Detection** | Computer Vision | Object detection, contour analysis |
+| **[Sudoku CSP Solver](https://github.com/Abdo-Anwar/sudoku-csp-solver)** | Constraint Satisfaction | Backtracking, AC‑3, Search |
+| **[Connect‑4 AI Agent](https://github.com/Abdo-Anwar/connect4-adversarial-AI)** | Adversarial Search | Minimax, Alpha‑Beta, Expectimax |
+| **[Gridworld RL Solver](https://github.com/Abdo-Anwar/gridworld-policy-iteration)** | Reinforcement Learning | Value & Policy Iteration |
+| **[OpenCV Shape Detection](https://github.com/Abdo-Anwar/opencv-shape-and-object-detection)** | Computer Vision | Object detection, contour analysis |
 
 
 #### ⚙️ Software Engineering & Systems
 
 | Project | Domain | Highlights |
 |-------|--------|------------|
-| **BookStore – Data‑Centric E‑Commerce System** | Data‑Driven Systems | ERD, SQL Triggers, DB Automation |
 | **AccessAI (Hackathon-Private)** | Multimodal Systems | Vision + Speech + LLM integration |
-| **Connect Hub (Social Media App)** | Software Engineering | Clean Architecture, Design Patterns |
-| **Mini Paint App** | Desktop Applications | OOP, UML, GUI interactions |
+| **[Connect Hub (Social Media App)](https://github.com/Abdo-Anwar/Connect-Hub)** | Software Engineering | Clean Architecture, Design Patterns |
+| **[Mini Paint App](https://github.com/Abdo-Anwar/Mini-Paint-App)** | Desktop Applications | OOP, UML, GUI interactions 
+
+
+
+### 🧠 Data Engineering – Selected Work
+
+| Project | Scope | Key Focus |
+|------|------|---------|
+| **[TPC‑H OLAP Pipeline](https://github.com/Abdo-Anwar/TPCH-OLAP-Nifi-ETL)** | Batch Analytics | OLTP→OLAP, Star Schema, NiFi, Parquet |
+| **[Hybrid Lakehouse NYC (NYC‑FLOW)](https://github.com/Abdo-Anwar/Hybrid-Lakehouse-NYC)** | Lakehouse Architecture | Airflow, Spark, Iceberg, Deterministic ETL |
+| **[FlumeSparkLogs](https://github.com/Abdo-Anwar/FlumeSparkLogs)** | Log Processing | Flume, HDFS, Spark |
+
+
+
