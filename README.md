@@ -47,7 +47,7 @@
 
 ---
 
-### 📊 Featured Projects
+###  Featured Projects
 
 | Project | Tech Stack | Description |
 | :--- | :--- | :--- |
@@ -70,3 +70,30 @@
   </a>
 
 </div>
+
+---
+
+### 🧩 Selected Side Projects
+
+While my primary focus is **Data Engineering**, I’ve also worked on a set of
+selected projects in **AI** and **Software Engineering** that reflect my
+algorithmic thinking and system‑level understanding.
+
+#### 🤖 AI & Algorithms Projects
+
+| Project | Focus Area | Key Concepts |
+|--------|------------|--------------|
+| **Sudoku CSP Solver** | Constraint Satisfaction | Backtracking, AC‑3, Search |
+| **Connect‑4 AI Agent** | Adversarial Search | Minimax, Alpha‑Beta, Expectimax |
+| **Gridworld RL Solver** | Reinforcement Learning | Value & Policy Iteration |
+| **OpenCV Shape Detection** | Computer Vision | Object detection, contour analysis |
+
+
+#### ⚙️ Software Engineering & Systems
+
+| Project | Domain | Highlights |
+|-------|--------|------------|
+| **BookStore – Data‑Centric E‑Commerce System** | Data‑Driven Systems | ERD, SQL Triggers, DB Automation |
+| **AccessAI (Hackathon-Private)** | Multimodal Systems | Vision + Speech + LLM integration |
+| **Connect Hub (Social Media App)** | Software Engineering | Clean Architecture, Design Patterns |
+| **Mini Paint App** | Desktop Applications | OOP, UML, GUI interactions |
