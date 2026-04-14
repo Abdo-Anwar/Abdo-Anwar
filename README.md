@@ -88,8 +88,7 @@ created to support hands‑on learning and community use in Data‑Intensive Sys
 
 | Project | Purpose  | Used In |
 |--------|------------|--------------|
-| **[project 1](https://github.com/Abdo-Anwar/project-1)** | ...... | ..................... |
-| **[project 2](https://github.com/Abdo-Anwar/project-2)** | .............. | ..............|
+| [DDIA Microservices Setup – Polyglot Persistence](https://github.com/Abdo-Anwar/DDIA-microservices-setup) | Polyglot persistence & performance testing | Docker, MySQL, MongoDB, JMeter |
 
 
 
