@@ -1,6 +1,6 @@
 <div align="center">
   <h1>Hi there 👋, I'm Abdelrhman Anwar</h1>
-  <h3>🚀 Aspiring Data Engineer | Big Data Enthusiast</h3>
+  <h3> Aspiring Data Engineer | Big Data Enthusiast</h3>
 
   <p>
     Computer & Communications Engineering Student at Alexandria University. <br>
@@ -12,13 +12,13 @@
 
 ---
 
-### 👨‍💻 About Me
+###  About Me
 
-- 🎓 I’m currently studying **Computer and Communications Engineering**.
-- 🔭 I’m currently working on building **Real-time & Batch Data Pipelines**.
-- 🌱 I’m currently learning **Advanced MLOps & Cloud Data Architectures (AWS/Azure)**.
-- 💡 I’m interested in **Big Data Architecture, Business Management, and Entrepreneurship**.
-- 👯 I’m looking to collaborate on **Open Source Data Engineering Projects**.
+-  I’m currently studying **Computer and Communications Engineering**.
+-  I’m currently working on building **Real-time & Batch Data Pipelines**.
+-  I’m currently learning **Advanced MLOps & Cloud Data Architectures (AWS/Azure)**.
+-  I’m interested in **Big Data Architecture, Business Management, and Entrepreneurship**.
+-  I’m looking to collaborate on **Open Source Data Engineering Projects**.
 
 ---
 
